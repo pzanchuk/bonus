@@ -37,7 +37,7 @@ var lastResult = count();
 function reverseString(lastResult) {
     return lastResult.split("").reverse().join("");
 }
-alert(reverseStringz(lastResult));
+alert(reverseString(lastResult));
 
 // var lastResult = count();
 // var text = "";
